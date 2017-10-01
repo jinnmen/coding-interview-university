@@ -1,4 +1,8 @@
 # Coding Interview University
+# コード面接大学
+
+＞　私はもともとソフトウェアエンジニアになるため、この短いTo-doリストを作成しました。
+＞　このリストを成長して、今のままになりました。
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
